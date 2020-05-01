@@ -14,3 +14,6 @@ Qui di seguito vediamo alcuni esempi dell'algoritmo applicato ad un video pubbli
 
 ![alt text](FIgure/fix1.gif "Grande assembramento")
 ![alt text](FIgure/fix2.gif "Piccolo assembramento")
+
+## KYD Mobile
+A breve pubblicheremo alcuni risultati dell'algoritmo mobile.
