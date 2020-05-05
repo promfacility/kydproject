@@ -20,3 +20,6 @@ Qui alcuni risultati preliminari della verisione mobile:
 
 ![alt text](Figure/mob1.gif "Camera Mobile 1")
 ![alt text](Figure/mob2.gif "Camera Mobile 2")
+
+Nel seguente video la camera è in movimento, si notano alcuni falsi positivi sullo sfondo ma le persone sull'attraversamento pedonale sono rilevate correttamente.
+![alt text](Figure/mob3.gif "Camera Mobile 2")
