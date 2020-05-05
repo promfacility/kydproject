@@ -12,8 +12,11 @@ chiamate rispettivamente **KYD** e **KYD mobile**.
 ## KYD
 Qui di seguito vediamo alcuni esempi dell'algoritmo applicato ad un video pubblico scaricabile [qui](http://groups.inf.ed.ac.uk/vision/BEHAVEDATA/INTERACTIONS/).
 
-![alt text](FIgure/fix1.gif "Grande assembramento")
-![alt text](FIgure/fix2.gif "Piccolo assembramento")
+![alt text](Figure/fix1.gif "Grande assembramento")
+![alt text](Figure/fix2.gif "Piccolo assembramento")
 
 ## KYD Mobile
-A breve pubblicheremo alcuni risultati dell'algoritmo mobile.
+Qui alcuni risultati preliminari della verisione mobile:
+
+![alt text](Figure/mob1.gif "Camera Mobile 1")
+![alt text](Figure/mob2.gif "Camera Mobile 2")
